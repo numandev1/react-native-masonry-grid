@@ -1,6 +1,6 @@
 {
-  "name": "react-native-masonry-flatlist",
-  "version": "0.1.0",
+  "name": "react-native-masonry-grid",
+  "version": "0.0.1",
   "description": "Pure js Masonry Flatlist",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "react-native-masonry-flatlist.podspec",
+    "react-native-masonry-grid.podspec",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/nomi9995/react-native-masonry-flatlist",
+  "repository": "https://github.com/nomi9995/react-native-masonry-grid",
   "author": "Muhammad Numan <muhammadnuman70@gmail.com> (https://github.com/nomi9995)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nomi9995/react-native-masonry-flatlist/issues"
+    "url": "https://github.com/nomi9995/react-native-masonry-grid/issues"
   },
-  "homepage": "https://github.com/nomi9995/react-native-masonry-flatlist#readme",
+  "homepage": "https://github.com/nomi9995/react-native-masonry-grid#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -51,8 +51,8 @@
     "@react-native-community/eslint-config": "^2.0.0",
     "@release-it/conventional-changelog": "^2.0.0",
     "@types/jest": "^26.0.0",
-    "@types/react": "^16.9.19",
-    "@types/react-native": "0.62.13",
+    "@types/react": "~18.0.0",
+    "@types/react-native": "^0.69.6",
     "commitlint": "^11.0.0",
     "eslint": "^7.2.0",
     "eslint-config-prettier": "^7.0.0",
@@ -61,8 +61,8 @@
     "jest": "^26.0.1",
     "pod-install": "^0.1.0",
     "prettier": "^2.0.5",
-    "react": "16.13.1",
-    "react-native": "0.63.4",
+    "react": "18.0.0",
+    "react-native": "0.69.5",
     "react-native-builder-bob": "^0.18.0",
     "release-it": "^14.2.2",
     "typescript": "^4.1.3"
