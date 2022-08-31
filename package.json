@@ -1,6 +1,6 @@
 {
   "name": "react-native-masonry-grid",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Pure js Masonry Flatlist",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
